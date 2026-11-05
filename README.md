@@ -4,7 +4,7 @@ An Android study productivity app that puts a focus timer, task manager, progres
 
 ## Screenshots
 
-![StudyBuddy screens: Timer, Tasks, Progress, and Motivation](studybuddy-screens.png)
+![StudyBuddy screens: Timer, Tasks, Progress, and Motivation](screenshots/studybuddy-screens.png)
 
 ## Features
 
