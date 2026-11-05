@@ -34,6 +34,11 @@ app/src/main/java/com/example/studybuddy/
 ├── ui/theme/     # Colors, typography, theme
 └── viewmodels/   # State for tasks, quotes, progress, and timer
 ```
+ 
+## Documentation
+ 
+The full design document covers personas, use cases, architecture, wireframes versus the finished app, known limitations, and the roadmap: [StudyBuddy Design Document (PDF)](docs/StudyBuddy_Design_Document.pdf).
+ 
 
 ## Run it
 
